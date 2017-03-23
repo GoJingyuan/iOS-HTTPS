@@ -1,0 +1,4 @@
+# iOS-HTTPS
+HTTPS Of AppTransportSecuritySettings
+
+针对2017年1月1日苹果强制App内使用HTTPS请求,为iOS应用升级HTTPS请求及兼容HTTP请求所写
